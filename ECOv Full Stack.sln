@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "circular-economy-hackathon", "circular-economy-hackathon", "{4F83E326-ED0F-A6A7-7593-BA0116EA0F7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shadowfactory", "circular-economy-hackathon\shadowfactory\shadowfactory.csproj", "{C6842FFD-5DD0-8A35-808B-A8E2E5B2680F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6842FFD-5DD0-8A35-808B-A8E2E5B2680F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6842FFD-5DD0-8A35-808B-A8E2E5B2680F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6842FFD-5DD0-8A35-808B-A8E2E5B2680F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6842FFD-5DD0-8A35-808B-A8E2E5B2680F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C6842FFD-5DD0-8A35-808B-A8E2E5B2680F} = {4F83E326-ED0F-A6A7-7593-BA0116EA0F7F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9077B21-F8A3-4650-9A84-23A77A0C705D}
+	EndGlobalSection
+EndGlobal
